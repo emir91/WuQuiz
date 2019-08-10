@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Lacquer&display=swap');
+
+.intro h2 {
+ font-family: 'Lacquer', sans-serif;
+ text-shadow: 2px 2px #000;
+}
+
+.quiz{
+    background: url(wu-tang.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+
+}
+
+.quiz h2{
+ font-family: 'Lacquer', sans-serif;
+ text-align: center;
+ text-shadow: 2px 2px #000;
+}
+
+p{
+    font-family: 'Lacquer', sans-serif;
+    text-shadow: 2px 2px #000;   
+}
+
+label{
+    color: #fff;
+    text-shadow: 2px 2px #000;
+}
+
+.result h2{
+    font-family: 'Lacquer', sans-serif;
+    text-shadow: 2px 2px #000;  
+}
+
+h2 span{
+    font-family: 'Lacquer', sans-serif;
+    text-shadow: 2px 2px #000;  
+}
