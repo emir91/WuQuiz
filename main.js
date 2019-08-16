@@ -15,8 +15,11 @@ form.addEventListener('submit', e => {
            score += 25;
        }
     });
+
+    // show result on the page
     scrollTo(0,0);
-    result.classList.toggle('d-none');
+    
+    result.classList.remove('d-none');
     
     let output = 0;
     const timer = setInterval(() => {
